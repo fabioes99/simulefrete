@@ -1,4 +1,10 @@
-Teste Projeto SimuleFrete
+# Teste Projeto SimuleFrete
 
-Na basta de back-end esta o laravel, para rodar utilizar o comando php artisan serve
-Na pasta vite-project esta o front-en para rodar baixar as dependencias com npm install e npm i axios, utilizar o comando npm run dev para iniciar o servidor
+## Back-end (Laravel)
+- Para rodar, utilize o comando `php artisan serve` na pasta do projeto Laravel.
+
+## Front-end (Vite Project)
+- Para rodar, siga estes passos:
+  1. Na pasta `vite-project`, baixe as dependências com `npm install`.
+  2. Instale o axios com `npm i axios`.
+  3. Utilize o comando `npm run dev` para iniciar o servidor.
